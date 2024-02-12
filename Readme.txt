@@ -1,3 +1,4 @@
+*Please ignore node_module file and re-initialise*
 1. Created a User Schema: Defined a schema for the user in Mongoose, including
 fields like id , name , email . 
 file name - user.js
